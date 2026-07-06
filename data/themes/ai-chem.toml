@@ -1,0 +1,18 @@
+# Theme metadata
+name = "ai-chem"
+
+[light]
+  primary = "#126C6E"
+
+  menu_primary = "#111820"
+  menu_text = "#E7ECEF"
+  menu_text_active = "#8FD0C1"
+  menu_title = "#D6B36A"
+
+  link = "#0E696A"
+  link_hover = "#8E3247"
+  link_decoration = "underline"
+
+  background = "#F6F7F5"
+  home_section_odd = "#EEF2F0"
+  home_section_even = "#F6F7F5"

@@ -6,7 +6,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 1
 
-title: 'NSF Workshop: Envisioning Future of AI and Chemistry <br/> ESJ, University of Maryland <br/> September 2026'
+title: 'Envisioning Future of AI and Chemistry <br/> ESJ, University of Maryland <br/> September 2026'
 subtitle: "Chemistry-first AI for data, models, and infrastructure"
 design:
   columns: '1'

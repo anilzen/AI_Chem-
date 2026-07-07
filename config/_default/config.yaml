@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 'Envisioning Future of AI and Chemistry' # Website name
-# Set a production URL here when the final deployment domain is assigned.
-baseURL: '/'
+# Production URL for the workshop website.
+baseURL: 'https://ai-chem-26.umd.edu/'
 
 ############################
 ## LANGUAGE

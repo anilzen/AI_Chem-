@@ -21,7 +21,7 @@ view: compact
   }
   .ai-chem-program .program-meta {
     display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+    grid-template-columns: 1fr;
     gap: 0.8rem;
     margin: 1rem 0 1.5rem;
   }
@@ -59,3 +59,6 @@ view: compact
 
   <p>The workshop will use short talks, facilitated breakout sessions, and writing assignments. Participants will receive a pre-workshop synthesis of the survey and will be asked to submit one-page inputs in advance: one scientific opportunity or moonshot, one subfield-specific data or infrastructure bottleneck, one cross-cutting data or benchmark need, and one pilot project that could be actionable within 1-2 years.</p>
 
+  <div class="program-meta">
+    <div><strong>Venue</strong><a href="https://ihc.umd.edu/">University of Maryland Institute for Health Computing</a><br>6116 Executive Blvd., North Bethesda, MD 20852</div>
+  </div>

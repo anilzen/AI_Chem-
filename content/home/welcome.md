@@ -11,7 +11,7 @@ design:
 <div class="workshop-facts">
   <div><strong>Venue</strong><span><a href="https://ihc.umd.edu/">University of Maryland Institute for Health Computing</a><br>6116 Executive Blvd., North Bethesda, MD 20852</span></div>
   <div><strong>Format</strong><span>Small, invitation-based working meeting</span></div>
-  <div><strong>Preferred dates</strong><span>September 3-4, 2026, with backup dates September 14-15, 2026</span></div>
+  <div><strong>Dates</strong><span>September 3-4, 2026</span></div>
   <div><strong>Organizers</strong><span>Pratyush Tiwary, Connor Coley, and Ryan Jorn</span></div>
 </div>
 

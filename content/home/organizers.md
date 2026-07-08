@@ -24,7 +24,7 @@ design:
     <span class="focus">Co-organizer</span>
   </div>
   <div class="organizer-card">
-    <img src="uploads/organizers/ryan-jorn.jpg" alt="Ryan Jorn" loading="lazy">
+    <img src="uploads/organizers/JornRyan_Nov2025.jpg" alt="Ryan Jorn" loading="lazy">
     <span class="name">Ryan Jorn</span>
     <span class="affil">Wichita State University</span>
     <span class="focus">Co-organizer</span>
